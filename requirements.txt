@@ -1,0 +1,4 @@
+pip install selenium 
+pip install beautifulsoup4
+
+Install respective Chromedriver version from "https://chromedriver.chromium.org/downloads"
