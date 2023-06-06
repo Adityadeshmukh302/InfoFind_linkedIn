@@ -10,4 +10,4 @@ password: Password@1234
 pword = driver.find_element(By.ID, "password")
 pword.send_keys("Password@1234")	
 
-Gmail Login passowrd for anishmishra4212@gmail.com is the same i.e Password@1234
+
