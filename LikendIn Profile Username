@@ -1,0 +1,13 @@
+LinkedIn Profile:
+
+Username: anishmishra4212@gmail.com
+# entering username
+username = driver.find_element(By.ID, "username")
+username.send_keys("anishmishra4212@gmail.com")
+
+password: Password@1234
+# entering password
+pword = driver.find_element(By.ID, "password")
+pword.send_keys("Password@1234")	
+
+Gmail Login passowrd for anishmishra4212@gmail.com is the same i.e Password@1234
